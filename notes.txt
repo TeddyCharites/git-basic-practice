@@ -1,0 +1,2 @@
+Ghi chu ban dau
+Bo sung ghi chu sau khi hoc Git.
